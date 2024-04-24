@@ -6,11 +6,12 @@ bot to automate notifications and generally make life easier for the people in t
 
 ### current state
 
-the bot can do one thing - say hello
+the bot can do one thing - say hello when you say hello to it
 
 ### next steps
 
-- provide updates about updated repos
 - welcome new users with a picture of a cute dog
-- post a weekly server analytics report (# messages, # reactions, ...)
+- provide updates about updated repos
+- post reminders for upcoming code-alongs
+- match project leaders to project followers
 
